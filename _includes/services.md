@@ -18,5 +18,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"><autocolor>IEEE Transactions on Image Processing (T-IP)</autocolor></a></li>
   <li><a href="https://academic.oup.com/bib"><autocolor>Briefings in Bioinformatics (BIB)</autocolor></a></li>
-  li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based System (KBS)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based System (KBS)</autocolor></a></li>
 </ul>
