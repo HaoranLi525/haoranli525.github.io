@@ -4,20 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third-year Ph.D candidate at University of Wollongong, advised by Prof. [<span style="color:rgb(61, 96, 212);">Jun Shen</span>](https://scholars.uow.edu.au/jun-shen), Dist.Prof. [<span style="color: #rgb(61, 96, 212);">Zhengyi Jiang</span>](https://scholars.uow.edu.au/zhengyi-jiang), Dr. [<span style="color: #rgb(61, 96, 212);">Bo Du</span>](https://experts.griffith.edu.au/43067-bo-bobby-du) and Dr. [<span style="color: #rgb(61, 96, 212);">Jiahua Shi</span>](https://about.uq.edu.au/experts/43928). I'm currently served as a visiting research student a the University of Queensland hosted by Dr. Jiahua Shi. I also work closely with Prof. [<span style="color: #rgb(61, 96, 212);">Min Xu</span>](https://xulabs.github.io/min-xu/) and Dr. [<span style="color: #rgb(61, 96, 212);">Xingjian Li</span>](https://scholar.google.com/citations?user=f9V0NZkAAAAJ&hl=en) on AI in Cryo-Electron Tomography processing at Carnegie Mellon University. I was a visiting student at the Harbin Institute of Technology, Shen zhen hosted by Prof. [<span style="color: #rgb(61, 96, 212);">Yong Xu</span>](https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=zOVgYQYAAAAJ&sortby=pubdate). Before Ph.D., I worked as a research assistant at Shandong University under the supervision of Prof. [<span style="color: #rgb(61, 96, 212);">Liqiang Nie</span>](https://liqiangnie.github.io/index.html).
+
+I received my Master's degree from the University of Leeds under the supervision of Dr.[<span style="color: #rgb(61, 96, 212);">Matteo Leonetti</span>](https://www.kcl.ac.uk/people/matteo-leonetti), and my Bachelor's degree from Hangzhou Dianzi University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Image Segmentation, Image Classification, Biomedical Image Processing
+- **Deep Learning:** Zero-shot Learning, Unsupervised Domain Adaptation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2025]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2024]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2024]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2023]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %} <p>
+  <a href="/publications/" class="button">View All Publications</a>
+</p>
+
 
 {% include_relative _includes/services.md %}

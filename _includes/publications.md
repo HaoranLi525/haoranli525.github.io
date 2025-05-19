@@ -1,4 +1,13 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div style="display: flex; align-items: baseline; gap: 10px; margin: 2px 0px -15px;">
+  <h2 id="publications" style="margin: 0;">Selective Publications</h2>
+  <a href="/publications/" style="
+    font-size: 16px;
+    color:rgb(26, 91, 232);  /* ← 你可以换成任何你喜欢的颜色 */
+    text-decoration: none;
+    position: relative;
+    top: 0.5px;  /* 微调对齐 */
+  ">[View All Publications]</a>
+</div>
 
 <div class="publications">
 <ol class="bibliography">
