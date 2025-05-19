@@ -15,10 +15,8 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
-- **[Feb. 2025]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2024]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2024]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2023]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** One paper is accepted at KDD 2026 as a co-first author.
+- **[Dec. 2024]** One paper is accepted at AAAI 2025 as first author
 
 {% include_relative _includes/publications.md %} <p>
   <a href="/publications/" class="button">View All Publications</a>
