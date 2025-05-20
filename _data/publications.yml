@@ -9,6 +9,20 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
+  
+  - title: FDNet: Frequency Domain Denoising Network For Cell Segmentation In Astrocytes Derived From Induced Pluripotent Stem Cells
+    authors: <strong>Haoran Li</strong>, Chun-Mei Feng, Yong Xu, Tao Zhou, Lina Yao, Xiaojun Chang
+    conference_short: ISBI
+    conference: IEEE International Symposium on Biomedical Imaging <strong>(ISBI)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10234216
+    image: ./assets/img/ZSCOD.png
+  
+  - title: Zero-shot Camouflaged Object Detection
+    authors: <strong>Haoran Li</strong>, Chun-Mei Feng, Yong Xu, Tao Zhou, Lina Yao, Xiaojun Chang
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10234216
+    image: ./assets/img/ZSCOD.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
