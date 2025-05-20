@@ -13,3 +13,15 @@ permalink: /publications/
     top: 1px;
   ">[Back to Bio]</a>
 </div>
+
+1. **FDNet**: Frequency Domain Denoising Network  
+   *Haoran Li*, Yao Yao^  
+   _IEEE TMI_, 2023
+
+1. **MVGF**: Multi-View Graph Fusion  
+   *Haoran Li*, Xiaoming Wang  
+   _AAAI_, 2025
+
+1. **GraphAligner**: Structure-aware Graph-based Protein Alignment  
+   Y. Zhang, *Haoran Li^*  
+   _TPAMI_, 2024
