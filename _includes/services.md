@@ -16,7 +16,10 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"><autocolor>IEEE Transactions on Image Processing (T-IP)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979"><autocolor>IEEE Transactions on Intelligent Transportation Systems (TITS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCVST)</autocolor></a></li>
   <li><a href="https://academic.oup.com/bib"><autocolor>Briefings in Bioinformatics (BIB)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based System (KBS)</autocolor></a></li>
 </ul>
