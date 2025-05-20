@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: baseline; gap: 10px; margin: 2px 0px -15px;">
   <h2 id="publications" style="margin: 0;">Selective Publications</h2>
   <span style="font-size: 14px; color: gray; position: relative; top: 1px;">
-    * co-first author, <sup>†</sup> corresponding author
+    <sup>*</sup> Equal contribution, <sup>†</sup> Corresponding author
   </span>
   <a href="/publications/" style="
     font-size: 16px;
