@@ -15,7 +15,7 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
-- **[May. 2025]** One paper is accepted at KDD 2026 as a co-first author.
+- **[May. 2025]** One paper is accepted at SIGKDD 2025 as a co-first author.
 - **[May. 2025]** One paper is accepted at ICWS 2025.
 - **[Jan. 2025]** One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing.
 - **[Dec. 2024]** One paper is accepted by AAAI 2025 as the first author.

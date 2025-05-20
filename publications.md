@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1.H. Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, H. Chen, Y. Jun, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">FedSC: Federated Learning with Semantic-Aware Collaboration.</span> <strong><em>The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</em> (SIGKDD 2025, Core Ranking A*).</strong>
 1. <strong>Haoran Li</strong>, X. Li, J. Shi, H. Chen, B. Du, D. Kihara, J. Barthelemy, J. Shen and M. Xu. (2025) <span style="color:rgb(61, 96, 212);">Vox-UDA: Voxel-wise Unsupervised Domain Adaptation for Cryo-Electron Subtomogram Segmentation with Denoised Pseudo Labeling.</span> <strong><em>The 39th Annual AAAI Conference on Artificial Intelligence</em> (AAAI 2025, Core Ranking A*).</strong>
 1. Q. Liu, Y. Xiao, Y. Gui, G. Dai, <strong>Haoran Li</strong>, X. Zhou, A. Ren, G. Zhou, and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">MMF-RNN: A Multimodal Fusion Model for Precipitation Nowcasting Using Radar and Ground Station Data.</span> <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em> (IF = 7.5).</strong>
 1. Y. Zhao, H. Bian, K. Chen, P. Ji, L. Qu, S. Lin, W. Yu, <strong>Haoran Li</strong>, H. Chen, J. Shen, B. Raj and M. Xu. (2024) <span style="color:rgb(61, 96, 212);">Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation.</span> <strong><em>The 38th Annual Conference on Neural Information Processing Systems</em> (Neurips 2024, Core Ranking A*).</strong>

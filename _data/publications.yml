@@ -1,5 +1,11 @@
 main:
   
+  - title: "FedSC: Federated Learning with Semantic-Aware Collaboration"
+    authors: Huan Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, Huaming Chen, Yan Jun, Jiahua Shi, Jun Shen<sup>†</sup>
+    conference_short: SIGKDD 2025
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(SIGKDD)</strong>, 2025.
+    image: ./assets/img/NoPhoto.png
+  
   - title: "Vox-UDA: Voxel-wise Unsupervised Domain Adaptation for Cryo-Electron Subtomogram Segmentation with Denoised Pseudo-Labeling"
     authors: <strong>Haoran Li</strong>, Xingjian Li, Jiahua Shi, Huaming Chen, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup>, Min Xu<sup>†</sup>
     conference_short: AAAI 2025
