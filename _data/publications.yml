@@ -1,36 +1,30 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  
+  - title: "Vox-UDA: Voxel-wise Unsupervised Domain Adaptation for Cryo-Electron Subtomogram Segmentation with Denoised Pseudo-Labeling"
+    authors: <strong>Haoran Li</strong>, Xingjian Li, Jiahua Shi, Huaming Chen, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup>, Min Xu<sup>†</sup>
+    conference_short: AAAI 2025
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32019
+    code: https://github.com/xulabs/aitom
+    image: ./assets/img/VoxUDA.png
+  
+  - title: "Metric from human: Zero-shot monocular metric depth estimation via test-time adaptation"
+    authors: Yizhou Zhao, Hengwei Bian, Kaihua Chen, Pengliang Ji, Liao Qu, Shao-yu Lin, Weichen Yu, <strong>Haoran Li</strong>, Hao Chen, Jun Shen, Bhiksha Raj, Min Xu<sup>†</sup>
+    conference_short: Neurips 2024
+    conference: Annual Conference on Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=GA8TVtxudf
+    code: https://github.com/Skaldak/MfH
   
   - title: "FDNet: Frequency Domain Denoising Network For Cell Segmentation In Astrocytes Derived From Induced Pluripotent Stem Cells"
-    authors: <strong>Haoran Li</strong>, Chun-Mei Feng, Yong Xu, Tao Zhou, Lina Yao, Xiaojun Chang
-    conference_short: ISBI
+    authors: <strong>Haoran Li</strong>, Jiahua Shi<sup>†</sup>, Huaming Chen, Bo Du, Simon Maksour, Gabrielle Phillips, Mirella Dottori, Jun Shen
+    conference_short: ISBI 2024
     conference: IEEE International Symposium on Biomedical Imaging <strong>(ISBI)</strong>, 2024.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10234216
-    image: ./assets/img/ZSCOD.png
+    pdf: https://arxiv.org/pdf/2402.02724
+    image: ./assets/img/ISBI.png
   
   - title: Zero-shot Camouflaged Object Detection
-    authors: <strong>Haoran Li</strong>, Chun-Mei Feng, Yong Xu, Tao Zhou, Lina Yao, Xiaojun Chang
+    authors: <strong>Haoran Li</strong>, Chun-Mei Feng, Yong Xu, Tao Zhou, Lina Yao, Xiaojun Chang<sup>†</sup>
     conference_short: TIP
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10234216
     image: ./assets/img/ZSCOD.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
