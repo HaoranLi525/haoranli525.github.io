@@ -14,7 +14,7 @@ main:
     conference: Annual Conference on Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=GA8TVtxudf
     code: https://github.com/Skaldak/MfH
-    image:
+    image: ./assets/img/NoPhoto.png
   
   - title: "FDNet: Frequency Domain Denoising Network For Cell Segmentation In Astrocytes Derived From Induced Pluripotent Stem Cells"
     authors: <strong>Haoran Li</strong>, Jiahua Shi<sup>†</sup>, Huaming Chen, Bo Du, Simon Maksour, Gabrielle Phillips, Mirella Dottori, Jun Shen
