@@ -16,7 +16,14 @@ I received my Master's degree from the University of Leeds under the supervision
 ## News
 
 - **[May. 2025]** One paper is accepted at KDD 2026 as a co-first author.
-- **[Dec. 2024]** One paper is accepted at AAAI 2025 as first author
+- **[Jan. 2025]** One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing.
+- **[Dec. 2024]** One paper is accepted by AAAI 2025 as the first author.
+- **[Sep. 2024]** One paper is accepted by Neurips 2024.
+- **[Jun. 2024]** One paper is accepted by Briefings in Bioinformatics.
+- **[Feb. 2024]** One paper is accepted by ISBI 2024 as the first author.
+- **[Dec. 2023]** One paper is accepted by Knowledge-Based System.
+- **[Aug. 2023]** One paper is accepted by IEEE Transactions on Image Processing as the first author.
+- **[Jun. 2022]** One paper is accepted by MICCAI 2022.
 
 {% include_relative _includes/publications.md %} <p>
   <a href="/publications/" class="button">View All Publications</a>
