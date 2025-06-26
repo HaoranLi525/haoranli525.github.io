@@ -15,6 +15,7 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
+- **[Jun. 2025]** One paper is accepted at ICCV 2025 as a co-first author.
 - **[May. 2025]** One paper is accepted at SIGKDD 2025 as a co-first author.
 - **[May. 2025]** One paper is accepted at ICWS 2025.
 - **[Jan. 2025]** One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing.
