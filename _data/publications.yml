@@ -3,7 +3,7 @@ main:
   - title: "FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning"
     authors: Huan Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, Huaming Chen, Yan Jun, Jiahua Shi, Jun Shen<sup>†</sup>
     conference_short: ICCV 2025
-    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     image: ./assets/img/NoPhoto.png
 
   - title: "FedSC: Federated Learning with Semantic-Aware Collaboration"
