@@ -17,6 +17,8 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. G. Zhou, Q. Xu, Y. Liu, Q. Liu, A. Ren, X. Zhou, <strong>Haoran Li</strong> and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">
+Lightweight Multi-Scale Feature Fusion and Multi-receptive Field Feature Enhancement for Small Object Detection in the Aerial Images.</span> <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em> (IF = 7.5).</strong>
 1. H. Wang<sup>*</sup>, <strong>Haoran Li</strong>, H. Chen, Y. Jun, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">Dual Visual Prompting with Context-Modulated Diffusion Prompts.</span> <strong><em>IEEE Transactions on Multimedia</em> (IF=9.7, Core Ranking A*).</strong>
 1. H. Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, H. Chen, Y. Jun, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning.</span> <strong><em>IEEE/CVF International Conference on Computer Vision 2025</em> (ICCV 2025, Core Ranking A*).</strong>
 1. H. Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, H. Chen, Y. Jun, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">FedSC: Federated Learning with Semantic-Aware Collaboration.</span> <strong><em>The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</em> (SIGKDD 2025, Core Ranking A*).</strong>

@@ -15,6 +15,7 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
+- **[Aug. 2025]** One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing.
 - **[Aug. 2025]** One paper is accepted by IEEE Transactions on Multimedia.
 - **[Jun. 2025]** One paper is accepted at ICCV 2025 as a co-first author.
 - **[May. 2025]** One paper is accepted at SIGKDD 2025 as a co-first author.
@@ -26,7 +27,6 @@ I received my Master's degree from the University of Leeds under the supervision
 - **[Feb. 2024]** One paper is accepted by ISBI 2024 as the first author.
 - **[Dec. 2023]** One paper is accepted by Knowledge-Based System.
 - **[Aug. 2023]** One paper is accepted by IEEE Transactions on Image Processing as the first author.
-- **[Jun. 2022]** One paper is accepted by MICCAI 2022.
 
 {% include_relative _includes/publications.md %}
 
