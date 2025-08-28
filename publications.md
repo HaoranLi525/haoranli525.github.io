@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. J. Sun, J. Shen, <strong>Haoran Li</strong>, H. Wang, A. Ren, X. Zhou, and B. Yong (2025) <span style="color:rgb(61, 96, 212);"> QCL-LNF: A Spatio-Temporal Quantum CNN-LSTM Model for Long-Term NDVI Forecasting.</span> <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em> (IF = 7.5).</strong>
 1. G. Zhou, Q. Xu, Y. Liu, Q. Liu, A. Ren, X. Zhou, <strong>Haoran Li</strong> and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">
 Lightweight Multi-Scale Feature Fusion and Multi-receptive Field Feature Enhancement for Small Object Detection in the Aerial Images.</span> <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em> (IF = 7.5).</strong>
 1. H. Wang<sup>*</sup>, <strong>Haoran Li</strong>, H. Chen, Y. Jun, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">Dual Visual Prompting with Context-Modulated Diffusion Prompts.</span> <strong><em>IEEE Transactions on Multimedia</em> (IF=9.7, Core Ranking A*).</strong>
