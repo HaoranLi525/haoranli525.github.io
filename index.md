@@ -15,7 +15,6 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
-- **[Sep. 2025]** I will be joining The University of Sydney as a Postdoctoral Research Fellow!
 - **[Aug. 2025]** Two papers are accepted by IEEE Transactions on Geoscience and Remote Sensing.
 - **[Aug. 2025]** One paper is accepted by IEEE Transactions on Multimedia.
 - **[Jun. 2025]** One paper is accepted at ICCV 2025 as a co-first author.
@@ -33,3 +32,4 @@ I received my Master's degree from the University of Leeds under the supervision
 
 
 {% include_relative _includes/services.md %}
+
