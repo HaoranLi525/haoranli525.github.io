@@ -15,6 +15,7 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
+- **[Oct. 2025]** One paper is accepted by Knowledge-Based System as the first author.
 - **[Oct. 2025]** I will join Monash University as a Postdoctoral Research Fellow !
 - **[Aug. 2025]** Two papers are accepted by IEEE Transactions on Geoscience and Remote Sensing.
 - **[Aug. 2025]** One paper is accepted by IEEE Transactions on Multimedia.
@@ -26,7 +27,6 @@ I received my Master's degree from the University of Leeds under the supervision
 - **[Sep. 2024]** One paper is accepted by Neurips 2024.
 - **[Jun. 2024]** One paper is accepted by Briefings in Bioinformatics.
 - **[Feb. 2024]** One paper is accepted by ISBI 2024 as the first author.
-- **[Dec. 2023]** One paper is accepted by Knowledge-Based System.
 - **[Aug. 2023]** One paper is accepted by IEEE Transactions on Image Processing as the first author.
 
 {% include_relative _includes/publications.md %}
