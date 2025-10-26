@@ -15,6 +15,7 @@ I received my Master's degree from the University of Leeds under the supervision
 
 ## News
 
+- **[Oct. 2025]** A survey is accepted by IEEE Transactions on Computational Biology and Bioinformatics.
 - **[Oct. 2025]** One paper is accepted by Knowledge-Based System as the first author.
 - **[Oct. 2025]** I will join Monash University as a Postdoctoral Research Fellow !
 - **[Aug. 2025]** Two papers are accepted by IEEE Transactions on Geoscience and Remote Sensing.

@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. Z. Li, G. Zhou, <strong>Haoran Li</strong>, J. Mi, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">Deep Learning-Driven Protein-Ligand Binding Affinity Prediction: Data, Architecture, Training and Evaluation.</span> <strong><em>IEEE Transactions on Computational Biology and Bioinformatics</em> (IF = 3.4).</strong>
 1. <strong>Haoran Li</strong>, X. Li, H. Wang, J. Shi, H. Chen, Y. Zhao, B. Du, D. Kihara, J. Barthelemy, J. Shen and M. Xu. (2025) <span style="color:rgb(61, 96, 212);">MVGFormer: Multi-View Perspective with Graph-guided Transformer for Cryo-ET Segmentation.</span> <strong><em>Knowledge-Based Systems</em> (IF = 7.6).</strong>
 1. J. Sun, J. Shen, <strong>Haoran Li</strong>, H. Wang, A. Ren, X. Zhou, and B. Yong (2025) <span style="color:rgb(61, 96, 212);"> QCL-LNF: A Spatio-Temporal Quantum CNN-LSTM Model for Long-Term NDVI Forecasting.</span> <strong><em>IEEE Transactions on Geoscience and Remote Sensing</em> (IF = 7.5).</strong>
 1. G. Zhou, Q. Xu, Y. Liu, Q. Liu, A. Ren, X. Zhou, <strong>Haoran Li</strong> and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">
