@@ -14,6 +14,7 @@ I received my Master's degree from the University of Leeds under the supervision
 - **Deep Learning:** Zero-shot Learning, Unsupervised Domain Adaptation
 
 ## News
+<div style="max-height: 250px; overflow-y: auto; border: 1px solid #ddddddff; padding: 10px; border-radius: 8px; background-color: #fafafaff;">
 
 - **[Oct. 2025]** A survey is accepted by IEEE Transactions on Computational Biology and Bioinformatics.
 - **[Oct. 2025]** One paper is accepted by Knowledge-Based System as the first author.
@@ -30,6 +31,7 @@ I received my Master's degree from the University of Leeds under the supervision
 - **[Feb. 2024]** One paper is accepted by ISBI 2024 as the first author.
 - **[Aug. 2023]** One paper is accepted by IEEE Transactions on Image Processing as the first author.
 
+</div>
 {% include_relative _includes/publications.md %}
 
 
