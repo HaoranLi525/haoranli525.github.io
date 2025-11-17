@@ -1,7 +1,7 @@
 main:
   
   - title: "MVGFormer: Multi-view perspective with graph-guided transformer for cryo-ET segmentation"
-    authors: <strong>Haoran Li<sup>*</sup></strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Yizhou Zhao, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
+    authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Yizhou Zhao, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
     conference_short: KBS
     conference: Knowledge-Based Systems <strong>(KBS)</strong>, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S0950705125018489
