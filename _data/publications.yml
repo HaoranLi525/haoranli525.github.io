@@ -1,5 +1,13 @@
 main:
   
+  - title: "MVGFormer: Multi-view perspective with graph-guided transformer for cryo-ET segmentation"
+    authors: <strong>Haoran Li<sup>*</sup></strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Yizhou Zhao, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
+    conference_short: KBS
+    conference: Knowledge-Based Systems <strong>(KBS)</strong>, 2025.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0950705125018489
+    code: https://github.com/HaoranLi525/MVGFormer
+    image: ./assets/img/KBS.jpg
+
   - title: "FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning"
     authors: Huan Wang<sup>*</sup>, <strong>Haoran Li<sup>*</sup></strong>, Huaming Chen, Yan Jun, Jiahua Shi, Jun Shen<sup>†</sup>
     conference_short: ICCV 2025
@@ -23,14 +31,6 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32019
     code: https://github.com/xulabs/aitom
     image: ./assets/img/VoxUDA.png
-  
-  - title: "Metric from human: Zero-shot monocular metric depth estimation via test-time adaptation"
-    authors: Yizhou Zhao, Hengwei Bian, Kaihua Chen, Pengliang Ji, Liao Qu, Shao-yu Lin, Weichen Yu, <strong>Haoran Li</strong>, Hao Chen, Jun Shen, Bhiksha Raj, Min Xu<sup>†</sup>
-    conference_short: Neurips 2024
-    conference: Annual Conference on Neural Information Processing Systems <strong>(Neurips)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=GA8TVtxudf
-    code: https://github.com/Skaldak/MfH
-    image: ./assets/img/NoPhoto.png
   
   - title: "FDNet: Frequency Domain Denoising Network For Cell Segmentation In Astrocytes Derived From Induced Pluripotent Stem Cells"
     authors: <strong>Haoran Li</strong>, Jiahua Shi<sup>†</sup>, Huaming Chen, Bo Du, Simon Maksour, Gabrielle Phillips, Mirella Dottori, Jun Shen
