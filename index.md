@@ -16,6 +16,7 @@ I received my Master's degree from the University of Leeds under the supervision
 ## News
 <div class="news-scroll" markdown="1" style="max-height:260px;overflow-y:auto;border:1px solid #ddd;padding:10px;border-radius:8px;background:#fafafa;">
 
+- **[Dec. 2025]** PhD Thesis received the Examiners’ Commendation for Outstanding Thesis.
 - **[Nov. 2025]** Two papers are accepted by AAAI 2026.
 - **[Oct. 2025]** A survey is accepted by IEEE Transactions on Computational Biology and Bioinformatics.
 - **[Oct. 2025]** One paper is accepted by Knowledge-Based System as the first author.
@@ -24,7 +25,6 @@ I received my Master's degree from the University of Leeds under the supervision
 - **[Aug. 2025]** One paper is accepted by IEEE Transactions on Multimedia.
 - **[Jun. 2025]** One paper is accepted at ICCV 2025 as a co-first author.
 - **[May. 2025]** One paper is accepted at SIGKDD 2025 as a co-first author.
-- **[May. 2025]** One paper is accepted at ICWS 2025.
 - **[Jan. 2025]** One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing.
 - **[Dec. 2024]** One paper is accepted by AAAI 2025 as the first author.
 - **[Sep. 2024]** One paper is accepted by Neurips 2024.
