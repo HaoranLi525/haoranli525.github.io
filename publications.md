@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. <strong>Haoran Li</strong>, X. Li, H. Wang, J. Shi, H. Chen, B. Du, J. Barthelemy, D. Kihara, J. Shen and M. Xu. (2026) <span style="color:rgb(61, 96, 212);">From Unsupervised to Zero-Shot: 3D Domain Adaptation for Cryo-Electron Tomography Segmentation.</span> <strong><em>International Journal of Computer Vision</em> (IF = 9.3).</strong>
 1. Y. Lin, <strong>Haoran Li</strong>, H. Cao, Y. Hu, Q. Xu, C. Liu, X. Luo, Z. Wu, W. Wang and Yong Xu . (2026)<span style="color:rgb(61, 96, 212);">Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis.</span> <strong><em>The 40th Annual AAAI Conference on Artificial Intelligence</em> (AAAI 2026, Core Ranking A*).</strong>
 1. H. Wang, <strong>Haoran Li</strong>, Y. Lin, H. Chen, J. Yan, L. Wang, J. Shi, Q. Xu, Y. Hu, Y. Xu and J. Shen. (2026)<span style="color:rgb(61, 96, 212);">Towards Zero-Shot Diabetic Retinopathy Grading: Learning Generalized Knowledge via Prompt-Driven Matching and Emulating.</span> <strong><em>The 40th Annual AAAI Conference on Artificial Intelligence</em> (AAAI 2026, Core Ranking A*).</strong>
 1. Z. Li, G. Zhou, <strong>Haoran Li</strong>, J. Mi, J. Shi and J. Shen. (2025) <span style="color:rgb(61, 96, 212);">Deep Learning-Driven Protein-Ligand Binding Affinity Prediction: Data, Architecture, Training and Evaluation.</span> <strong><em>IEEE Transactions on Computational Biology and Bioinformatics</em> (IF = 3.4).</strong>

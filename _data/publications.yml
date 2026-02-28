@@ -1,4 +1,11 @@
 main:
+  - title: "From Unsupervised to Zero-Shot: 3D Domain Adaptation for Cryo-Electron Tomography Segmentation"
+    authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Daisuke Kihara, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
+    pdf: https://github.com/xulabs/aitom
+    code: https://github.com/xulabs/aitom
+    image: ./assets/img/IJCV.jpg
   
   - title: "MVGFormer: Multi-view perspective with graph-guided transformer for cryo-ET segmentation"
     authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Yizhou Zhao, Bo Du, Daisuke Kihara, Johan Barthelemy, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>

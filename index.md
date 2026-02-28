@@ -16,6 +16,7 @@ I received my Master's degree from the University of Leeds under the supervision
 ## News
 <div class="news-scroll" markdown="1" style="max-height:260px;overflow-y:auto;border:1px solid #ddd;padding:10px;border-radius:8px;background:#fafafa;">
 
+- **[Feb. 2026]** One paper is accepted by International Journal of Computer Vision as the first author.
 - **[Dec. 2025]** PhD Thesis received the Examiners’ Commendation for Outstanding Thesis.
 - **[Nov. 2025]** Two papers are accepted by AAAI 2026.
 - **[Oct. 2025]** A survey is accepted by IEEE Transactions on Computational Biology and Bioinformatics.
