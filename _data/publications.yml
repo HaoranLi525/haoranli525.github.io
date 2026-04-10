@@ -3,7 +3,7 @@ main:
     authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Daisuke Kihara, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
     conference_short: IJCV
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2026.
-    pdf: https://github.com/xulabs/aitom
+    pdf: https://link.springer.com/article/10.1007/s11263-026-02802-6
     code: https://github.com/xulabs/aitom
     image: ./assets/img/IJCV.jpg
   
