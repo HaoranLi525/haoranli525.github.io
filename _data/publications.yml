@@ -1,4 +1,11 @@
 main:
+  - title: "Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading"
+    authors: <strong>Haoran Li</strong>, Yuxin Lin, Huan Wang, Xiaoling Luo, Qi Zhu, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Zongyan Xue, Jun Shen<sup>†</sup> and Yong Xu<sup>†</sup>
+    conference_short: arXiv
+    conference: arXiv preprint <strong>(arXiv)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2602.21944
+    image: ./assets/img/arXiv.png
+
   - title: "From Unsupervised to Zero-Shot: 3D Domain Adaptation for Cryo-Electron Tomography Segmentation"
     authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Daisuke Kihara, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
     conference_short: IJCV
