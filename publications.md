@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. Y. Hu, <strong>Haoran Li</strong>, Q. Xu, Y. Lin, J. Shi, J. Shen, Y. Xu and X. Dou (2026) <span style="color:rgb(61, 96, 212);">A CNN-Injected Transformer Network with Lesion Reconstruction for Multi-View Diabetic Retinopathy Grading.</span> <strong><em>Medical Image Analysis</em> (IF = 11.8).</strong>
 1. B. Yong, H. Pei, J. Shen, <strong>Haoran Li</strong>, Q. Zhou and Z. Su (2026) <span style="color:rgb(61, 96, 212);">KANFIS: A Neuro-Symbolic Framework for Interpretable and Uncertainty-Aware Learning.</span> <strong><em>Forty-Third International Conference on Machine Learning</em> (ICML2026, Core Ranking A*).</strong>
 1. H. Wang, J. Shen, <strong>Haoran Li</strong>, Z. Yang, J. Yan, O. Manjang, Y. Zhai, D. Wu and G. Pang(2026) <span style="color:rgb(61, 96, 212);">FedHPro: Federated Hyper-Prototype Learning via Gradient Matching.</span> <strong><em>Forty-Third International Conference on Machine Learning</em> (ICML2026, Core Ranking A*).</strong>
 1. <strong>Haoran Li</strong>, X. Li, H. Wang, J. Shi, H. Chen, B. Du, J. Barthelemy, D. Kihara, J. Shen and M. Xu. (2026) <span style="color:rgb(61, 96, 212);">From Unsupervised to Zero-Shot: 3D Domain Adaptation for Cryo-Electron Tomography Segmentation.</span> <strong><em>International Journal of Computer Vision</em> (IF = 9.3, Core Ranking A*).</strong>
