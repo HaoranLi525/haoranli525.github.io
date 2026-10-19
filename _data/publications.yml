@@ -3,14 +3,14 @@ main:
     authors: <strong>Haoran Li</strong>, Shixue Li, Dangfeng Pan, Richard Scalzo, Ailie J. E. Gallant, Julie M. Arblaster and Iadine Chades
     conference_short: TCCML@NeurIPS
     conference: NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning <strong>(TCCML@NeurIPS)</strong>, 2026.
-    image: ./assets/img/NoPhoto.png
+    image: ./assets/img/TCCML.jpg
 
   - title: "Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading"
     authors: <strong>Haoran Li</strong>, Yuxin Lin, Huan Wang, Xiaoling Luo, Qi Zhu, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Zongyan Xue, Jun Shen<sup>†</sup> and Yong Xu<sup>†</sup>
     conference_short: MedIA
     conference: Medical Image Analysis <strong>(MedIA)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.21944
-    image: ./assets/img/NoPhoto.png
+    image: ./assets/img/MIA.jpg
 
   - title: "From Unsupervised to Zero-Shot: 3D Domain Adaptation for Cryo-Electron Tomography Segmentation"
     authors: <strong>Haoran Li</strong>, Xingjian Li, Huan Wang, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Daisuke Kihara, Jun Shen<sup>†</sup> and Min Xu<sup>†</sup>
