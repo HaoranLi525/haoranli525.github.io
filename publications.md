@@ -17,6 +17,7 @@ permalink: /publications/
   ">[Back to Bio]</a>
 </div>
 
+1. <strong>Haoran Li</strong>, Y. Lin, H. Wang, X. Luo, Q. Zhu, J. Shi, H. Chen, B. Du, J. Barthelemy, Z. Xue, J. Shen and Y. Xu (2026) <span style="color:rgb(61, 96, 212);">Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading.</span> <strong><em>Medical Image Analysis</em> (IF = 14.0).</strong>
 1. Y. Hu, <strong>Haoran Li</strong>, Q. Xu, Y. Lin, J. Shi, J. Shen, Y. Xu and X. Dou (2026) <span style="color:rgb(61, 96, 212);">A CNN-Injected Transformer Network with Lesion Reconstruction for Multi-View Diabetic Retinopathy Grading.</span> <strong><em>Medical Image Analysis</em> (IF = 14.0).</strong>
 1. B. Yong, H. Pei, J. Shen, <strong>Haoran Li</strong>, Q. Zhou and Z. Su (2026) <span style="color:rgb(61, 96, 212);">KANFIS: A Neuro-Symbolic Framework for Interpretable and Uncertainty-Aware Learning.</span> <strong><em>Forty-Third International Conference on Machine Learning</em> (ICML2026, Core Ranking A*).</strong>
 1. H. Wang, J. Shen, <strong>Haoran Li</strong>, Z. Yang, J. Yan, O. Manjang, Y. Zhai, D. Wu and G. Pang(2026) <span style="color:rgb(61, 96, 212);">FedHPro: Federated Hyper-Prototype Learning via Gradient Matching.</span> <strong><em>Forty-Third International Conference on Machine Learning</em> (ICML2026, Core Ranking A*).</strong>

@@ -7,8 +7,8 @@ main:
 
   - title: "Learning to Fuse and Reconstruct Multi-View Graphs for Diabetic Retinopathy Grading"
     authors: <strong>Haoran Li</strong>, Yuxin Lin, Huan Wang, Xiaoling Luo, Qi Zhu, Jiahua Shi, Huaming Chen, Bo Du, Johan Barthelemy, Zongyan Xue, Jun Shen<sup>†</sup> and Yong Xu<sup>†</sup>
-    conference_short: arXiv
-    conference: arXiv preprint <strong>(arXiv)</strong>, 2026.
+    conference_short: MedIA
+    conference: Medical Image Analysis <strong>(MedIA)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.21944
     image: ./assets/img/NoPhoto.png
 
